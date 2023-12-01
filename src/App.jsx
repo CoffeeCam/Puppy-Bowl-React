@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Route, Routes, BrowserRouter } from 'react-router-dom';
-import AllPlayers from './components/AllPlayers';
+import AllPlayers from './components/Allplayers';
 import NavBar from './components/NavBar';
 import NewPlayerForm from './components/NewPlayerForm';
 import SinglePlayer from './components/SinglePlayer';
